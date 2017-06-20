@@ -23,7 +23,7 @@ externalUrl: ""
 ##
 image:
   repository: quay.io/prometheus/prometheus
-  tag: v1.5.2
+  tag: v1.7.1
 
 ingress:
   ## If true, Prometheus Ingress will be created
