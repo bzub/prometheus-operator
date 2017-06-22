@@ -55,6 +55,10 @@ nodeSelector: {}
 ##
 paused: false
 
+## If true, create & use RBAC resources
+##
+rbacEnable: true
+
 ## Number of Prometheus replicas desired
 ##
 replicaCount: 1
